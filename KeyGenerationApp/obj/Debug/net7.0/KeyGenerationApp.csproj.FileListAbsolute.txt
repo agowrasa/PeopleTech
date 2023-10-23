@@ -1,0 +1,14 @@
+C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\KeyGenerationApp\bin\Debug\net7.0\KeyGenerationApp.exe
+C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\KeyGenerationApp\bin\Debug\net7.0\KeyGenerationApp.deps.json
+C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\KeyGenerationApp\bin\Debug\net7.0\KeyGenerationApp.runtimeconfig.json
+C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\KeyGenerationApp\bin\Debug\net7.0\KeyGenerationApp.dll
+C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\KeyGenerationApp\bin\Debug\net7.0\KeyGenerationApp.pdb
+C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\KeyGenerationApp\obj\Debug\net7.0\KeyGenerationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\KeyGenerationApp\obj\Debug\net7.0\KeyGenerationApp.AssemblyInfoInputs.cache
+C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\KeyGenerationApp\obj\Debug\net7.0\KeyGenerationApp.AssemblyInfo.cs
+C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\KeyGenerationApp\obj\Debug\net7.0\KeyGenerationApp.csproj.CoreCompileInputs.cache
+C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\KeyGenerationApp\obj\Debug\net7.0\KeyGenerationApp.dll
+C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\KeyGenerationApp\obj\Debug\net7.0\refint\KeyGenerationApp.dll
+C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\KeyGenerationApp\obj\Debug\net7.0\KeyGenerationApp.pdb
+C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\KeyGenerationApp\obj\Debug\net7.0\KeyGenerationApp.genruntimeconfig.cache
+C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\KeyGenerationApp\obj\Debug\net7.0\ref\KeyGenerationApp.dll
