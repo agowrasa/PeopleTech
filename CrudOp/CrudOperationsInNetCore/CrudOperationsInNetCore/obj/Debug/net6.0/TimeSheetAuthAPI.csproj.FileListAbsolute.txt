@@ -10,6 +10,7 @@ C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\CrudOp\Crud
 C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\CrudOp\CrudOperationsInNetCore\CrudOperationsInNetCore\bin\Debug\net6.0\Humanizer.dll
 C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\CrudOp\CrudOperationsInNetCore\CrudOperationsInNetCore\bin\Debug\net6.0\MessagePack.dll
 C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\CrudOp\CrudOperationsInNetCore\CrudOperationsInNetCore\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\CrudOp\CrudOperationsInNetCore\CrudOperationsInNetCore\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\CrudOp\CrudOperationsInNetCore\CrudOperationsInNetCore\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\CrudOp\CrudOperationsInNetCore\CrudOperationsInNetCore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\14708\Documents\Peopletech\My Tmesheet Project\angular_auth\CrudOp\CrudOperationsInNetCore\CrudOperationsInNetCore\bin\Debug\net6.0\Microsoft.Build.dll

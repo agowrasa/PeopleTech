@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9o5Ts1k09aN5SIVcmSmW0qjAuP9eKovDx+RkejeUc9O3Vpg4tswQrreAykkuSmlMNELC9fUUhnt866qXl3//4A==",
+  "dgSpecHash": "mHMjYriQnI4JVtOzF+T2eIoqkxzE6D4ieOfEGqIWYZsIkHrRkZmKCxE6OYFpsYGY1FfuKlgjOHfJ369iljWnlQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\14708\\Documents\\Peopletech\\My Tmesheet Project\\angular_auth\\CrudOp\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\TimeSheetAuthAPI.csproj",
   "expectedPackageFiles": [
@@ -59,6 +59,7 @@
     "C:\\Users\\14708\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\14708\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\14708\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
+    "C:\\Users\\14708\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.0\\microsoft.aspnetcore.authentication.jwtbearer.6.0.0.nupkg.sha512",
     "C:\\Users\\14708\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\14708\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\14708\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
